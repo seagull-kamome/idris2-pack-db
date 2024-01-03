@@ -820,3 +820,21 @@ type = "github"
 url = "https://git.sr.ht/~janus/web-server-racket-hello-world"
 commit = "master"
 ipkg = "web-server-racket-hello-world.ipkg"
+
+[db.missing-numeric]
+type = "github"
+url  = "https://github.com/stefan-hoeck/idris2-pack-db.git"
+commit = "master"
+ipkg = "missing-numeric.ipkg"
+
+[db.time-calendar-clock]
+type = "github"
+url  = "https://github.com/stefan-hoeck/idris2-time-calendar-clock"
+commit = "master"
+ipkg = "time-calendar-clock.ipkg"
+
+[db.missing-containers]
+type = "github"
+url  = "https://github.com/stefan-hoeck/idris2-missing-containers"
+comit  = "master"
+ipkg = "missing-containers.ipkg"
