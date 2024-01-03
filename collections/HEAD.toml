@@ -823,18 +823,18 @@ ipkg = "web-server-racket-hello-world.ipkg"
 
 [db.missing-numeric]
 type = "github"
-url  = "https://github.com/stefan-hoeck/idris2-pack-db.git"
+url  = "https://github.com/seagull-kamome/idris2-missing-numeric"
 commit = "master"
 ipkg = "missing-numeric.ipkg"
 
 [db.time-calendar-clock]
 type = "github"
-url  = "https://github.com/stefan-hoeck/idris2-time-calendar-clock"
+url  = "https://github.com/seagull-kamome/idris2-time-calendar-clock"
 commit = "master"
 ipkg = "time-calendar-clock.ipkg"
 
 [db.missing-containers]
 type = "github"
-url  = "https://github.com/stefan-hoeck/idris2-missing-containers"
+url  = "https://github.com/seagull-kamome/idris2-missing-containers"
 comit  = "master"
 ipkg = "missing-containers.ipkg"
